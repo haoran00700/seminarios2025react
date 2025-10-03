@@ -7,3 +7,5 @@ function PrimeiroComp(){
         </div>
     )
 }
+
+export default PrimeiroComp
